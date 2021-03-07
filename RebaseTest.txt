@@ -1,0 +1,8 @@
+Learning Git Commands
+
+git add . <to add the file to the local stage>
+git commit -m <message>  <To commit the changesto the local repo>
+
+git status <Shows the status of the files in staging>
+
+git log <To list the log transactions>
